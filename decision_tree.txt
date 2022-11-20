@@ -1,0 +1,19 @@
+Classification report for classifier DecisionTreeClassifier(max_depth=100):
+              precision    recall  f1-score   support
+
+           0       0.90      0.95      0.92        19
+           1       0.70      0.41      0.52        17
+           2       0.93      0.78      0.85        18
+           3       0.70      0.74      0.72        19
+           4       0.93      0.76      0.84        17
+           5       0.89      0.89      0.89        19
+           6       0.72      0.95      0.82        19
+           7       0.70      0.82      0.76        17
+           8       0.71      0.62      0.67        16
+           9       0.68      0.83      0.75        18
+
+    accuracy                           0.78       179
+   macro avg       0.79      0.78      0.77       179
+weighted avg       0.79      0.78      0.78       179
+
+
